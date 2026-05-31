@@ -1,6 +1,6 @@
 Hola, soy Santiago Torres 👋
 
-💻 Desarrollador Web Full-Stack en formación.
+💻 Desarrollador Web Full-Stack.
 
 Actualmente estoy desarrollando proyectos utilizando:
 
@@ -28,7 +28,7 @@ Tecnologías:
 - CSS
 - APIs
 
-## 📚 Actualmente aprendiendo
+## 📚 Aprendiendo
 
 - Arquitectura MVC
 - APIs REST
